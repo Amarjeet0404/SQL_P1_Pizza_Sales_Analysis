@@ -107,7 +107,6 @@ These tables are connected using **SQL joins** to perform analysis.
 
 **Amarjeet Singh Chauhan**  
 M.Tech – Data Science  
-GitHub: https://github.com/yourusername
 
 ---
 
